@@ -28,10 +28,11 @@ const Home = () => {
 
           {/* Bottom Left */}
           <div className="hero-bottom-left">
-            <a href="tel:+919944394666">📞 +91 99443 94666</a>
+            <a href="tel:+919944394666">📞 +91 74186 1555</a>
+            <a href="tel:+919944394666">📞 +91 98946 27555</a>
 
             <a href="mailto:avbmanpowersolutions@gmail.com">
-              ✉️ avbmanpowersolutions@gmail.com
+              ✉️ hravbms@gmail.com
             </a>
           </div>
 
@@ -57,19 +58,11 @@ const Home = () => {
       </section>
 
       <section className="partner_section">
-        <h1 className="partner">
-          We are Partner with in {""}
-          <span>
-            <a href="#" className="partner_content">
-              1.Narkol Venturess
-            </a>
-          </span>{" "}
-          <span>
-            <a href="#" className="partner_content">
-              2.Fivepillar Association
-            </a>
-          </span>
-        </h1>
+        <div className="marquee">
+          <h1 className="partner">
+            We are here to give the End to End Solutions ...
+          </h1>
+        </div>
       </section>
 
       <section className="text_section">
